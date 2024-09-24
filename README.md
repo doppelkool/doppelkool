@@ -4,7 +4,7 @@
 - 📫 Also known as: doppelkool
 - 🔥 Mainly programming **Java**
 - 💬 Known Frameworks: Angular
-- 🤯 Currently learning Python and much other stuff
+- 🤯 Currently learning Python and a lot of other stuff
 - 🤔 ToDo: React
 
 ## My favourite languages
