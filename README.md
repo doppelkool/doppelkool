@@ -3,8 +3,8 @@
 - ⚡ My name is Konrad
 - 📫 Also known as: doppelkool
 - 🔥 Mainly programming **Java**
-- 💬 Known Languages/Frameworks are Java-/TypeScript, Angular and C#
-- 🤯 Currently learning Python and many other stuff
+- 💬 Known Frameworks: Angular
+- 🤯 Currently learning Python and much other stuff
 - 🤔 ToDo: React
 
 ## My favourite languages
